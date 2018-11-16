@@ -1,0 +1,16 @@
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\xunit.abstractions.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\xunit.assert.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\xunit.core.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\xunit.assert.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\xunit.core.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
