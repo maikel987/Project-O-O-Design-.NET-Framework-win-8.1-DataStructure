@@ -1,0 +1,52 @@
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\ClassLibrary1.pri
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\priconfig.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\priconfig.xml.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\layout.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\layout.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\resources.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\resources.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\pri.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\pri.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\qualifiers.txt
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\xunit.abstractions.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\xunit.assert.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\xunit.core.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\xunit.abstractions.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\xunit.assert.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\xunit.core.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\ClassLibrary1.pri
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\xunit.abstractions.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\xunit.assert.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\xunit.core.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\xunit.abstractions.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\xunit.assert.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\xunit.core.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\priconfig.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\priconfig.xml.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\layout.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\layout.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\resources.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\resources.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\pri.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\pri.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\qualifiers.txt
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\ProjetLibraryManagement - Copie (2)\ClassLibrary1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
